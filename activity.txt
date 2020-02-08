@@ -1,0 +1,23 @@
+
+
+<html>
+<head>
+<title>ACT</title>
+</head>
+<body>
+<h1 align="center"><u>Activities</u></h1>
+<marquee behavior="scroll" direction="left">
+<img src ="C:\Users\AMRIT\Desktop\15.jpg" height="400px" width="1350px">
+</marquee>
+<p align="center">these are as follows:-<br><br>
+DANCE<br>
+SINGING<br>
+ACTING<br>
+SWIMMING<br>
+CRICKET<br>
+BADMINTON<br>
+BOLLYBALL<br>
+AND MANY MORE &#8230
+</p>
+</body>
+</html>

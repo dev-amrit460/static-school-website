@@ -1,0 +1,32 @@
+
+<html>
+<head>
+<title>Academics</title>
+</head>
+<body>
+<h1 align="center">ACADEMIC PROGRAMME</h1>
+<marquee behavior="scroll" direction="down">
+<div class="row">
+  <div class="column">
+    <img src="C:\Users\AMRIT\Desktop\12.jpg" height="400px" width="400px" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="C:\Users\AMRIT\Desktop\13.jpg" height="400px" width="400px" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="C:\Users\AMRIT\Desktop\14.jpg" height="400px" width="400px" style="width:100%">
+  </div>
+</div>
+</marquee>
+<p align="center">DPS Patna is affiliated to CBSE, New Delhi. The curriculum followed in junior and senior classes is based on NCERT<br>
+guidelines, albeit with several innovations which are introduced after much research and study.<br>
+The Pre-Primary teaching broadly uses the Play Way Method to teach the curriculum. Through this method, teachers<br>
+facilitate students to understand basic concepts of language and numbers thus giving them the first lessons in Life Skills.<br>
+The Play Way Method is further reinforced by hands-on activities conducted in and out of the classroom. Field Trips, Nature<br>
+Walks, Celebrations of Festivals, Topic-based Projects, and Science Experiments form a regular and integral part of<br>
+learning-through-doing.<br><br>
+Till class III the curriculum is theme-based. The idea behind this is to seamlessly integrate various subjects with a common<br>
+thread which links them to practical aspect of life. This gives our students a holistic view and allows them to apply<br>
+knowledge and correlate various subjects to real-life situations.<br></p>
+</body>
+</html>

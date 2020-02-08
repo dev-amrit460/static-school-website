@@ -1,0 +1,51 @@
+
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title>Making a website</title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<link href="default.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="header">
+	<h1><a href="#">HOMEPAGE</a></h1>
+	<h2><a href="http://www.stkarenshighschool.com/home.aspx">Click Below</a></h2>
+</div>
+<div id="left">
+	<div id="menu" class="boxed">
+		<h2 class="heading">links</h2>
+		<ul>
+			<li class="first"><a href="aboutus.html" title="">About Us</a></li>
+			<li><a href="academic.html" title="">Academics</a></li>
+			<li><a href="mission.html" title="">Mission and Vision</a></li>
+			<li><a href="activity.html" title="">Activities</a></li>
+			<li><a href="contact.html" title="">Contact us</a></li>
+		</ul>
+	</div>
+</div>
+<div id="right">
+	<div class="boxed">
+		<h2 class="heading">Little glimps</h2>
+		<ul>
+			<li>this is the best school in patna which not only shapes the mind but also shape the culture. <a href="#">Mind ignited&#8230;</a></li>
+			<li>We have the best teachers than any other school in patna. <a href="#">Best teachers&#8230;</a></li>
+			<li>We produce the best result in C.B.S.E exam always. <a href="#">Best result&#8230;</a></li>
+		</ul>
+	</div>
+</div>
+<div id="center">
+	<div class="boxed">
+		<h1 class="heading">Welcome to DPS</h1>
+		<p><strong>DPS,</strong>Patna was established in 1998 as a joint venture of the <a href="https://dpsrkp.net/dpsrkpuram/">Delhi Public Schools</a> Society (estb. 1949) and Takshila Educational Society.<a href="#">The Takshila Educational Society</a> was promoted in 1997 with the aim of establishing world-class schools. DPS Patna is its first venture.
+These are from <a href="https://www.dpsrkp.net/dipsdiary2019.php">magazine</a>.join DPS and <em>Enjoy :)</em></p>
+		<p> Features:</p>
+		<ul>
+			<li>All class are smart class</li>
+			<li>Huge play ground</li>
+			<li>Best teachers</li>
+		</ul>
+	</div>
+</div>
+</body>
+</html>
